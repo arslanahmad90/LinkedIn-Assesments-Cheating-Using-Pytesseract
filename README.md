@@ -12,7 +12,7 @@ You have to run these commands on your anaconda shell
 
 ```sh 
 conda create -n linkedInCheat
-``
+```
 ```sh
 conda activate linkedInCheat
 ```
